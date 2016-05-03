@@ -1,0 +1,25 @@
+2016-04-30 10:15:13 - PHP Notice:  Undefined variable: footer_modules in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\footer.tpl on line 6
+2016-04-30 10:15:13 - PHP Notice:  Undefined variable: shopme_footer_custom_block in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\footer.tpl on line 14
+2016-04-30 10:15:13 - PHP Notice:  Undefined variable: live_search in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\footer.tpl on line 71
+2016-04-30 10:15:13 - PHP Notice:  Undefined variable: text_category in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\search.tpl on line 7
+2016-04-30 10:15:13 - PHP Notice:  Undefined variable: categories in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\search.tpl on line 8
+2016-04-30 10:15:13 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\search.tpl on line 8
+2016-04-30 10:15:13 - PHP Notice:  Undefined variable: shopme_text_mycart in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\cart.tpl on line 7
+2016-04-30 10:15:13 - PHP Notice:  Undefined variable: shopme_styles in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\header.tpl on line 53
+2016-04-30 10:15:13 - PHP Notice:  Undefined variable: shopme_cookie in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\header.tpl on line 56
+2016-04-30 10:15:13 - PHP Notice:  Undefined variable: home_top in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\home.tpl on line 9
+2016-04-30 10:15:13 - PHP Notice:  Undefined variable: home_bottom in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\home.tpl on line 29
+2016-04-30 10:16:01 - PHP Notice:  Undefined variable: footer_modules in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\footer.tpl on line 6
+2016-04-30 10:16:01 - PHP Notice:  Undefined variable: shopme_footer_custom_block in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\footer.tpl on line 14
+2016-04-30 10:16:01 - PHP Notice:  Undefined variable: live_search in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\footer.tpl on line 71
+2016-04-30 10:16:02 - PHP Notice:  Undefined variable: text_category in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\search.tpl on line 7
+2016-04-30 10:16:02 - PHP Notice:  Undefined variable: categories in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\search.tpl on line 8
+2016-04-30 10:16:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\search.tpl on line 8
+2016-04-30 10:16:02 - PHP Notice:  Undefined variable: shopme_text_mycart in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\cart.tpl on line 7
+2016-04-30 10:16:02 - PHP Notice:  Undefined variable: shopme_styles in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\header.tpl on line 53
+2016-04-30 10:16:02 - PHP Notice:  Undefined variable: shopme_cookie in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\header.tpl on line 56
+2016-04-30 10:16:02 - PHP Notice:  Undefined variable: home_top in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\home.tpl on line 9
+2016-04-30 10:16:02 - PHP Notice:  Undefined variable: home_bottom in C:\xampp\htdocs\tikikakasport\catalog\view\theme\shopme\template\common\home.tpl on line 29
+2016-04-30 15:26:46 - PHP Notice:  Error: Duplicate entry '7799' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO `oc_setting` (`setting_id`, `store_id`, `code`, `key`, `value`, `serialized`) VALUES ('7799', '0', 'config', 'config_image_location_height', '50', '0') in C:\xampp\htdocs\tikikakasport\system\library\db\mysqli.php on line 41
+2016-04-30 15:26:46 - PHP Notice:  Error: Duplicate entry '7798' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO `oc_setting` (`setting_id`, `store_id`, `code`, `key`, `value`, `serialized`) VALUES ('7798', '0', 'config', 'config_image_location_width', '268', '0') in C:\xampp\htdocs\tikikakasport\system\library\db\mysqli.php on line 41
+2016-04-30 15:40:20 - PHP Notice:  Undefined index: sections in C:\xampp\htdocs\tikikakasport\admin\controller\module\shopme_banner.php on line 143
